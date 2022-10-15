@@ -97,6 +97,9 @@ footer {
 }
 
 @media (max-width: 775px) {
+    h1 {
+        font-size: 26px;
+    }
     .box-push {
         transform: translateY(0);
     }
